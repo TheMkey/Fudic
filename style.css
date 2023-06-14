@@ -1,0 +1,14 @@
+#hero {
+  padding: 150px 0; /* Adjust the height as per your requirement */
+  background-color: white;
+}
+/* Ajoutez ici vos styles personnalisés */
+#contact {
+  display: block;
+}
+.expanded {
+  display: block;
+}
+#teamimg {
+  height: 500px;
+}
